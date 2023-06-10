@@ -1,5 +1,5 @@
 # Australia-2019-election-analysis-using-NLP
-
+Link to Data sets:https://www.kaggle.com/datasets/taniaj/australian-election-2019-tweets
 
 Introduction:
 The purpose of this report is to present the analysis of tweets related to the Australian Election 2019. The analysis involves predicting the sentiment of the tweets and determining the favorite candidate based on the tweets. The analysis incorporates both web scraping using the Tweepy library and the use of a CSV file containing tweet data. The Natural Language Toolkit (NLTK) library is used for text preprocessing and sentiment analysis. The accuracy achieved in sentiment prediction is 71 percent.
